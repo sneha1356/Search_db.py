@@ -1,0 +1,36 @@
+INFO:root:(4, 'C:\\Hcl_folder\\zzz.txt')
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:(5, 'C:\\Hcl_folder\\gayii.txt')
+INFO:root:C:\Hcl_folder\gayii.txt
+INFO:root:C:\Hcl_folder\hcl_program3.txt
+INFO:root:(17, 'C:\\Hcl_folder\\hcl_program3.txt')
+INFO:root:C:\Hcl_folder\hcl_program1.txt
+INFO:root:C:\Hcl_folder\gayii.txt
+INFO:root:C:\Hcl_folder\gayii.txt
+INFO:root:C:\Hcl_folder\gayii.txt
+INFO:root:C:\Hcl_folder\zzz.txt
+INFO:root:C:\Hcl_folder\zzz.txt
+INFO:root:C:\Hcl_folder\gayii.txt
+INFO:root:C:\Hcl_folder\gayii.txt
+INFO:root:C:\Hcl_folder\hcl_word1
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:None
+INFO:root:None
+INFO:root:None
+INFO:root:C:\Hcl_folder\abc.txt
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:C:\Hcl_folder\teamc2.txt
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not Found
+INFO:root:File Not found
+INFO:root:File Not found
